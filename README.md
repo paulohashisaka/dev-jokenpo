@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="https://paulohashisaka.github.io/dev-jokenpo/">🔗 Acesse a demonstração online</a>
+</p>
+
+<p align="center">
   <a href="#-funcionalidades">Funcionalidades</a> ·
   <a href="#-tecnologias">Tecnologias</a> ·
   <a href="#-como-jogar">Como jogar</a>
